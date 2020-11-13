@@ -53,35 +53,35 @@ Compoud transformation is recommended for data augmentation since in introduce m
 As a demo, we illustrate som examples in here:
 
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/master/docs/Original.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/main/docs/Original.gif" alt="Figure1" width="280"/>
     <br>
     <em>Original video data.</em>
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/master/docs/Shear_InvertColor.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/main/docs/Shear_InvertColor.gif" alt="Figure2" width="280"/>
     <br>
     <em>Combination of Shear and Invert color.</em>
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/master/docs/Tanslation_Blur.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/main/docs/Tanslation_Blur.gif" alt="Figure3" width="280"/>
     <br>
     <em>Combination of Translation and Bluring.</em>
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/master/docs/Rotation_Contrast.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/main/docs/Rotation_Contrast.gif" alt="Figure4" width="280"/>
     <br>
     <em>Combination of Rotation and Contrast.</em>
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/master/docs/Crop_Gray.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Video_Augmentation/blob/main/docs/Crop_Gray.gif" alt="Figure5" width="280"/>
     <br>
     <em>Combination of Gray style and Cropping.</em>
 </p>
